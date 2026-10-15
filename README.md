@@ -128,12 +128,11 @@ The notebook implements gain calculations for different combinations of coherent
 
 One form used in the asymmetric model is
 
-$$
+
 $Q(\mu_A,\mu_B)$
 =
 $1-(1-Y_0)$
-$\exp[-\eta_A\mu_A-\eta_B\mu_B]$,
-$$
+$\exp[-\eta_A\mu_A-\eta_B\mu_B]$
 
 where:
 
