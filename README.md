@@ -14,7 +14,7 @@ Numerical investigation of asymmetric sending-or-not-sending twin-field quantum 
 **Title:** *Non-Monotonic Key Rate in Asymmetric Sending-or-Not-Sending Twin-Field Quantum Key Distribution with Actively-Odd Parity Pairing*
 
 - **Author:** Om Gururaj Kanade
-- **Research paper / PDF:** [Insert link to the research paper PDF here](YOUR_PDF_OR_ARXIV_LINK_HERE)
+- **Research paper / PDF:** [Pre-print link](https://drive.google.com/file/d/1oo4kvbQFXrUVIkFjU7DGS4zoybvqSp7z/view?usp=drive_link)
 
 <!-- Replace the placeholder above with the public arXiv abstract or PDF URL when available. Alternatively, upload the PDF to this repository and link it using a relative path, e.g. [Read the paper](paper.pdf). -->
 
@@ -205,7 +205,7 @@ The notebook includes plots for examining key-rate variation with distance asymm
 |---|---|
 | `Asymmetric-SNS-TF-QKD-AOPP.ipynb` | Main research notebook containing the numerical models, parameter studies, optimization routines, and visualizations. |
 | `README.md` | Project overview, theoretical background, modelling description, and execution instructions. |
-| `paper.pdf` *(optional)* | Research paper PDF, if uploaded to the repository. |
+
 
 ## Getting Started
 
@@ -292,7 +292,7 @@ These references establish relevant protocol background. They should not be take
 
 ## Acknowledgements and Citation
 
-If you use this code in research, please cite the repository and relevant underlying publications. If a manuscript describing this specific numerical investigation becomes publicly available, its bibliographic details should be added here.
+If you use this code in research, please cite the repository and relevant underlying publications. 
 
 
 ## License
